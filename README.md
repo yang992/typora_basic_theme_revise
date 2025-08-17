@@ -38,8 +38,8 @@ We revise `github.css` so that the background of these blocks.
 
 ```css
 .md-alert.md-alert-note {background: rgba(9, 105, 218, 0.06);color: #0969da;}
-.md-alert.md-alert-caution {background: rgba(154, 103, 0, 0.06);color: #9a6700;}
-.md-alert.md-alert-tip {background: rgba(31, 136, 61, 0.06);color: #1f883d;}
 .md-alert.md-alert-important {background: rgba(130, 80, 223, 0.06);color: #8250df;}
-.md-alert.md-alert-warning {background: rgba(207, 34, 46, 0.06);color: #cf222e;}
+.md-alert.md-alert-warning {background: rgba(154, 103, 0, 0.06);color: #9a6700;}
+.md-alert.md-alert-tip {background: rgba(31, 136, 61, 0.06);color: #1f883d;}
+.md-alert.md-alert-caution {background: rgba(207, 34, 46, 0.06);color: #cf222e;}
 ```
